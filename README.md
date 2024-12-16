@@ -1,6 +1,9 @@
 ## LED Signal System for Robotics Communication
 - This project showcases an LED signal system designed to improve communication during FRC matches. The system was developed to address the challenge of real-time coordination between human team members and robot drivers.
 
+This LED signal system played a crucial role in improving communication and coordination in robotics competitions, especially during high-pressure moments requiring quick decision-making.
+
+
 ## Key Features:
 
 - Visual Signaling: Integrated LED lights to provide clear, color-coded signals for various game states or robot commands.
